@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;400&display=swap%27');
 @media (min-width: 600px) {
     #up{
         margin-top: 1.2%;
@@ -5,9 +7,6 @@
         width:91%
     }
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap%27');
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;400&display=swap%27');
 body { font-family: Barlow !important; }
 
 #fondo{
